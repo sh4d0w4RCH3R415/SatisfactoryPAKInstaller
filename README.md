@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/development-paused-orange)](#)
+
 ## SatisfactoryPAKInstaller
 An installer that handles the hard work for you. Just provide the file location and game directory and it'll do the rest for you.
 
